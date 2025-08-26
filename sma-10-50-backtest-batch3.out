@@ -1,0 +1,151 @@
+========================== Strategy analysis =========================
+Criptoasset = DOGE-USD
+Start                         2017-11-09 00:00:00+00:00
+End                           2025-08-26 00:00:00+00:00
+Period                               2848 days 00:00:00
+Start Value                                       100.0
+End Value                                  10623.700166
+Total Return [%]                           10523.700166
+Benchmark Return [%]                       14978.922598
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              73.476116
+Max Drawdown Duration                1283 days 00:00:00
+Total Trades                                         30
+Total Closed Trades                                  29
+Total Open Trades                                     1
+Open Trade PnL                               793.453618
+Win Rate [%]                                  31.034483
+Best Trade [%]                              1778.023976
+Worst Trade [%]                              -30.463156
+Avg Winning Trade [%]                        291.668219
+Avg Losing Trade [%]                         -12.068318
+Avg Winning Trade Duration             69 days 21:20:00
+Avg Losing Trade Duration              29 days 08:24:00
+Profit Factor                                  2.393223
+Expectancy                                   335.525743
+Sharpe Ratio                                   0.798885
+Calmar Ratio                                   1.113822
+Omega Ratio                                    1.418711
+Sortino Ratio                                  2.556412
+dtype: object
+========================== Strategy analysis =========================
+Criptoasset = TRX-USD
+Start                         2017-11-09 00:00:00+00:00
+End                           2025-08-26 00:00:00+00:00
+Period                               2848 days 00:00:00
+Start Value                                       100.0
+End Value                                   2322.830554
+Total Return [%]                            2222.830554
+Benchmark Return [%]                       14840.165363
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              56.234754
+Max Drawdown Duration                1157 days 00:00:00
+Total Trades                                         32
+Total Closed Trades                                  31
+Total Open Trades                                     1
+Open Trade PnL                               473.235127
+Win Rate [%]                                  48.387097
+Best Trade [%]                               249.549482
+Worst Trade [%]                              -19.071205
+Avg Winning Trade [%]                         40.057974
+Avg Losing Trade [%]                          -6.998569
+Avg Winning Trade Duration             76 days 19:12:00
+Avg Losing Trade Duration              23 days 07:30:00
+Profit Factor                                   4.01957
+Expectancy                                    56.438562
+Sharpe Ratio                                   0.885393
+Calmar Ratio                                   0.882858
+Omega Ratio                                    1.244796
+Sortino Ratio                                  1.558649
+dtype: object
+========================== Strategy analysis =========================
+Criptoasset = AVAX-USD
+Start                         2020-07-13 00:00:00+00:00
+End                           2025-08-26 00:00:00+00:00
+Period                                             1802
+Start Value                                       100.0
+End Value                                   1214.452297
+Total Return [%]                            1114.452297
+Benchmark Return [%]                         384.925206
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              81.650642
+Max Drawdown Duration                            1373.0
+Total Trades                                         26
+Total Closed Trades                                  25
+Total Open Trades                                     1
+Open Trade PnL                               125.943773
+Win Rate [%]                                       36.0
+Best Trade [%]                               511.162927
+Worst Trade [%]                              -46.541487
+Avg Winning Trade [%]                         128.90389
+Avg Losing Trade [%]                         -15.204943
+Avg Winning Trade Duration                    58.888889
+Avg Losing Trade Duration                        13.875
+Profit Factor                                  1.653156
+Expectancy                                    39.540341
+dtype: object
+========================== Strategy analysis =========================
+Criptoasset = HYPE-USD
+Start                         2021-01-12 00:00:00+00:00
+End                           2024-08-27 00:00:00+00:00
+Period                               1324 days 00:00:00
+Start Value                                       100.0
+End Value                                     75.465053
+Total Return [%]                             -24.534947
+Benchmark Return [%]                         -99.999714
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              93.438326
+Max Drawdown Duration                 890 days 00:00:00
+Total Trades                                         11
+Total Closed Trades                                  11
+Total Open Trades                                     0
+Open Trade PnL                                      0.0
+Win Rate [%]                                  36.363636
+Best Trade [%]                               604.407175
+Worst Trade [%]                              -69.817501
+Avg Winning Trade [%]                        189.056499
+Avg Losing Trade [%]                         -34.560658
+Avg Winning Trade Duration             56 days 06:00:00
+Avg Losing Trade Duration              12 days 00:00:00
+Profit Factor                                  0.803374
+Expectancy                                     -2.23045
+Sharpe Ratio                                   0.663409
+Calmar Ratio                                  -0.079913
+Omega Ratio                                    1.349955
+Sortino Ratio                                  1.624547
+dtype: object
+========================== Strategy analysis =========================
+Criptoasset = LTC-USD
+Start                         2014-09-17 00:00:00+00:00
+End                           2025-08-26 00:00:00+00:00
+Period                               3997 days 00:00:00
+Start Value                                       100.0
+End Value                                  26000.711241
+Total Return [%]                           25900.711241
+Benchmark Return [%]                        2115.331108
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              73.482619
+Max Drawdown Duration                1570 days 00:00:00
+Total Trades                                         48
+Total Closed Trades                                  47
+Total Open Trades                                     1
+Open Trade PnL                              4133.254146
+Win Rate [%]                                  44.680851
+Best Trade [%]                               869.227061
+Worst Trade [%]                              -30.813697
+Avg Winning Trade [%]                         87.932199
+Avg Losing Trade [%]                         -10.448499
+Avg Winning Trade Duration             66 days 02:17:08
+Avg Losing Trade Duration              21 days 06:27:41
+Profit Factor                                   1.55878
+Expectancy                                   463.137385
+Sharpe Ratio                                   1.013691
+Calmar Ratio                                   0.900382
+Omega Ratio                                    1.275374
+Sortino Ratio                                  1.721788
+dtype: object

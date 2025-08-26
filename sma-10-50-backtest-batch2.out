@@ -1,0 +1,124 @@
+========================== Strategy analysis =========================
+Criptoasset = ADA-USD
+Start                         2017-11-09 00:00:00+00:00
+End                           2025-08-26 00:00:00+00:00
+Period                               2848 days 00:00:00
+Start Value                                       100.0
+End Value                                   9761.006379
+Total Return [%]                            9661.006379
+Benchmark Return [%]                        2549.536538
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              58.892031
+Max Drawdown Duration                 827 days 00:00:00
+Total Trades                                         31
+Total Closed Trades                                  30
+Total Open Trades                                     1
+Open Trade PnL                              1320.843768
+Win Rate [%]                                  33.333333
+Best Trade [%]                              1066.314461
+Worst Trade [%]                              -25.094407
+Avg Winning Trade [%]                        168.939956
+Avg Losing Trade [%]                          -9.694332
+Avg Winning Trade Duration             72 days 14:23:59
+Avg Losing Trade Duration              19 days 08:24:00
+Profit Factor                                  2.190421
+Expectancy                                    278.00542
+Sharpe Ratio                                   1.190238
+Calmar Ratio                                   1.356317
+Omega Ratio                                    1.321504
+Sortino Ratio                                  2.028474
+dtype: object
+========================== Strategy analysis =========================
+Criptoasset = LINK-USD
+Start                         2017-11-09 00:00:00+00:00
+End                           2025-08-26 00:00:00+00:00
+Period                               2848 days 00:00:00
+Start Value                                       100.0
+End Value                                    821.098748
+Total Return [%]                             721.098748
+Benchmark Return [%]                       10699.605836
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              86.831526
+Max Drawdown Duration                1570 days 00:00:00
+Total Trades                                         37
+Total Closed Trades                                  36
+Total Open Trades                                     1
+Open Trade PnL                               301.765043
+Win Rate [%]                                  27.777778
+Best Trade [%]                               286.219167
+Worst Trade [%]                              -36.190967
+Avg Winning Trade [%]                         89.300688
+Avg Losing Trade [%]                         -12.105786
+Avg Winning Trade Duration             71 days 16:48:00
+Avg Losing Trade Duration              27 days 03:41:32
+Profit Factor                                  1.234958
+Expectancy                                    11.648158
+Sharpe Ratio                                   0.740594
+Calmar Ratio                                   0.356727
+Omega Ratio                                    1.169063
+Sortino Ratio                                  1.174713
+dtype: object
+========================== Strategy analysis =========================
+Criptoasset = SUI-USD
+Start                         2022-03-18 00:00:00+00:00
+End                           2024-06-04 00:00:00+00:00
+Period                                810 days 00:00:00
+Start Value                                       100.0
+End Value                                     17.189056
+Total Return [%]                             -82.810944
+Benchmark Return [%]                          -96.98098
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              98.613391
+Max Drawdown Duration                 399 days 00:00:00
+Total Trades                                          7
+Total Closed Trades                                   7
+Total Open Trades                                     0
+Open Trade PnL                                      0.0
+Win Rate [%]                                  57.142857
+Best Trade [%]                               171.874999
+Worst Trade [%]                              -96.997691
+Avg Winning Trade [%]                         69.255096
+Avg Losing Trade [%]                         -35.801415
+Avg Winning Trade Duration             69 days 12:00:00
+Avg Losing Trade Duration              21 days 00:00:00
+Profit Factor                                  0.625899
+Expectancy                                   -11.830135
+Sharpe Ratio                                   0.907016
+Calmar Ratio                                  -0.555438
+Omega Ratio                                    1.529286
+Sortino Ratio                                  1.996434
+dtype: object
+========================== Strategy analysis =========================
+Criptoasset = BNB-USD
+Start                         2017-11-09 00:00:00+00:00
+End                           2025-08-26 00:00:00+00:00
+Period                               2848 days 00:00:00
+Start Value                                       100.0
+End Value                                  21751.053881
+Total Return [%]                           21651.053881
+Benchmark Return [%]                        42612.29094
+Max Gross Exposure [%]                            100.0
+Total Fees Paid                                     0.0
+Max Drawdown [%]                              53.263445
+Max Drawdown Duration                 566 days 00:00:00
+Total Trades                                         32
+Total Closed Trades                                  31
+Total Open Trades                                     1
+Open Trade PnL                              4841.982243
+Win Rate [%]                                   45.16129
+Best Trade [%]                               954.665869
+Worst Trade [%]                               -19.20895
+Avg Winning Trade [%]                        123.205518
+Avg Losing Trade [%]                          -8.520222
+Avg Winning Trade Duration             84 days 03:25:42
+Avg Losing Trade Duration              17 days 09:52:56
+Profit Factor                                  2.732043
+Expectancy                                   542.228117
+Sharpe Ratio                                   1.339535
+Calmar Ratio                                   1.864873
+Omega Ratio                                    1.364494
+Sortino Ratio                                  2.352629
+dtype: object
